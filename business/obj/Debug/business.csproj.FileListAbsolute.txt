@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\bin\Debug\business.dll
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\bin\Debug\business.pdb
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\bin\Debug\Negocio.dll
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\obj\Debug\business.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\obj\Debug\business.csproj.CopyComplete
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\obj\Debug\business.dll
+C:\Users\Usuario\Documents\curso_c#\out\TPFinalNivel2_Aubert\business\obj\Debug\business.pdb

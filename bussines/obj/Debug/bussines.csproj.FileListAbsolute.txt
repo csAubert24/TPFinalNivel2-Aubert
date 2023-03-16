@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\obj\Debug\bussines.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\obj\Debug\bussines.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\bin\Debug\bussines.dll
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\bin\Debug\bussines.pdb
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\bin\Debug\dominio.dll
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\bin\Debug\dominio.pdb
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\obj\Debug\bussines.csproj.CopyComplete
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\obj\Debug\bussines.dll
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\bussines\obj\Debug\bussines.pdb
